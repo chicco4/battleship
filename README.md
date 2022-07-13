@@ -2,13 +2,13 @@
 
 A simple battleship game game written in html, css and javascript.
 
+[Live Demo](https://chicco4.github.io/restaurant-page/) :point_left:
+
 ### tools used:
 
 - webpack
 - jest
 - standard
-
-[Live Demo](https://chicco4.github.io/restaurant-page/) :point_left:
 
 #### trying my best to implement SOLID and webpack correctly
 
