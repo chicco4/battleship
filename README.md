@@ -1,7 +1,8 @@
 # battleship
 
 A simple battleship game game written in html, css and javascript.
-tools used:
+
+### tools used:
 
 - webpack
 - jest
